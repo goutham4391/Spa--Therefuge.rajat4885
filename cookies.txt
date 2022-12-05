@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.healcode.com	TRUE	/	FALSE	1999999999	__cf_bm	otiM.4JkP0yIUlCnKjtrsz.n38X0SwvJbbURFxEiz_c-1668340217-0-AbrGCYjRZrqngZTmVSB42ltvNZaUWhzM9xlKG97IQzq5VQg6tzsb8fE/eCNATR5hX+Bc8JCp0iQISEBIlDGdLG8=
+widgets.healcode.com	TRUE	/	FALSE	1999999999	SameSite	None
+
